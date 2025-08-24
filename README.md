@@ -76,15 +76,6 @@ At **Zelta AI**, we provide **AI SaaS platforms** that help businesses **automat
 
 ---
 
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anas-zelta&show_icons=true&theme=radical" width="450" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anas-zelta&theme=radical" width="450" />
-</p>
-
----
-
 ## 🌐 Connect With Me  
 
 💌 **Email:** [anas@zelta.ai](mailto:anas@zelta.ai)  
