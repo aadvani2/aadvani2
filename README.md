@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Anas</h1>
-<h3 align="center">Founder & CEO | Zelta AI 🚀 | AI-Powered SaaS Solutions for Businesses</h3>
+<h3 align="center">| AI-Powered SaaS Solutions for Businesses</h3>
 
 <p align="center">
   <a href="https://zelta.ai"><img src="https://img.shields.io/badge/🌐 Visit_Zelta_AI-2b9348?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
@@ -10,7 +10,7 @@
 ---
 
 ## 🚀 About Me  
-I’m **Anas**, the **Founder & CEO of [Zelta AI](https://zelta.ai)**, where we build **next-gen AI SaaS solutions** designed to **automate business processes, enhance productivity, and unlock growth opportunities** for companies worldwide.
+I’m **Anas**, we build **next-gen AI SaaS solutions** designed to **automate business processes, enhance productivity, and unlock growth opportunities** for companies worldwide.
 
 - 🌎 Leading **Zelta AI** to empower **startups, SMBs, and enterprises** with **AI-driven automation**  
 - 🧠 Passionate about **LLMs, agentic AI, multimodal models, and business AI automation**  
